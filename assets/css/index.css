@@ -19,6 +19,10 @@ h1 {
   font-weight: 100;
 }
 
+.carousel {
+  margin-bottom: 2rem;
+}
+
 .hero-box {
   align-items: center;
   /* border: 1px solid #ccc; */
