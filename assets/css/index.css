@@ -12,6 +12,12 @@ aside {
   color: rgb(252, 245, 237);
 }
 
+.about-text {
+  font-size: 2rem;
+  color: rgb(252, 245, 237);
+  width: 60%;
+}
+
 .masthead {
   font-size: 8rem;
   color: rgb(252, 245, 237);
