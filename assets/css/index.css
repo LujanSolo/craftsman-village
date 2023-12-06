@@ -7,25 +7,16 @@ body {
   background-image: linear-gradient(to right, rgb(34, 9, 44), rgb(135, 35, 107));
 }
 
-aside {
-  font-size: 14px;
-  color: rgb(252, 245, 237);
-}
-
-.about-text {
-  font-size: 2rem;
-  color: rgb(252, 245, 237);
-  width: 60%;
-}
-
-.masthead {
-  font-size: 8rem;
+h1 {
+  font-size: 4rem;
   color: rgb(252, 245, 237);
 }
 
 .subheading {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   color: rgb(252, 245, 237);
+  font-style: italic;
+  font-weight: 100;
 }
 
 .hero-box {
@@ -33,7 +24,7 @@ aside {
   /* border: 1px solid #ccc; */
   width: 100%;
   /* background-color: rgb(17, 57, 70); */
-  padding: 0 20px;
+  padding: 0 2em;
   color: rgb(246, 247, 234);
 }
 
@@ -41,4 +32,16 @@ aside {
   padding: 2rem;
   font-size: 1.5rem;
   font-weight: 100;
+}
+
+aside p {
+  font-size: 1.6rem;
+  color: rgb(252, 245, 237);
+  text-align: justify;
+}
+
+.about-text {
+  font-size: 2rem;
+  color: rgb(252, 245, 237);
+  width: 60%;
 }
