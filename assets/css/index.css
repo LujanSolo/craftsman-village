@@ -4,7 +4,7 @@ html {
 
 body {
   font-family: 'Enriqueta', Verdana, Geneva, Tahoma, sans-serif;
-  background-image: linear-gradient(to right, rgb(14, 9, 44), rgb(35, 113, 135));
+  background-image: linear-gradient(to right, rgb(6, 3, 20), rgb(24, 47, 56), rgb(43, 40, 21));
 }
 
 h1 {
@@ -25,29 +25,20 @@ h1 {
 
 .hero-box {
   align-items: center;
-  /* border: 1px solid #ccc; */
-  width: 100%;
-  /* background-color: rgb(17, 57, 70); */
   padding: 0 2em;
   color: rgb(246, 247, 234);
 }
 
 aside {
   padding: 2rem;
-  font-size: 1.5rem;
-  font-weight: 100;
 }
 
 aside p {
   font-size: 1.6rem;
-  color: rgb(252, 245, 237);
-  text-align: justify;
-}
-
-.about-text {
-  font-size: 2rem;
-  color: rgb(252, 245, 237);
-  width: 60%;
+  font-weight: lighter;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+  color: rgb(225, 223, 213);
 }
 
 footer {
